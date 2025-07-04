@@ -20,8 +20,7 @@ Simply click the "PLAY NOW" button above to play directly in your browser.
 
 ### Downloadable Version
 1. Visit the [Itch.io page](https://erfan-khodami.itch.io/CalmBeforeTheStorm)
-2. Choose your platform (Windows/Mac/Linux)
-3. Download and run the executable
+2. Download and run the executable
 
 ## Development
 Built with:  
@@ -33,4 +32,3 @@ For bug reports or feedback, please open an issue on GitHub or contact through I
 
 ---
 
-[![Play Now on Itch.io](https://img.shields.io/badge/PLAY%20NOW-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://erfan-khodami.itch.io/CalmBeforeTheStorm)
