@@ -30,5 +30,4 @@ Built with:
 ## Support
 For bug reports or feedback, please open an issue on GitHub or contact through Itch.io.
 
----
 
